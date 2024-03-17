@@ -6,7 +6,6 @@
 - [What You'll Learn](#what-youll-learn)
 - [Technologies](#technologies)
 - [Getting Started](#getting-started)
-- [Watch the Video Tutorial](#watch-the-video-tutorial)
 
 ## Introduction
 
@@ -49,22 +48,15 @@ The project is designed with the following components:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/airscholar/e2e-data-engineering.git
+    git clone https://github.com/ChisomOrika/Realtime-Data-Streaming-Pipeline.git
     ```
 
 2. Navigate to the project directory:
     ```bash
-    cd e2e-data-engineering
+    cd Realtime-Data-Streaming-Pipeline
     ```
 
 3. Run Docker Compose to spin up the services:
     ```bash
     docker-compose up
     ```
-
-For more detailed instructions, please check out the video tutorial linked below.
-
-## Watch the Video Tutorial
-
-For a complete walkthrough and practical demonstration, check out our [YouTube Video Tutorial](https://www.youtube.com/watch?v=GqAcTrqKcrY).
-
